@@ -1,4 +1,4 @@
-let name = 'JavaScript'
-let HELLO = 'Hello'
+//= require first
+//= require second
 
-console.log(`${HELLO} from ${name}`)
+console.log("I am at the app.js")
