@@ -8,12 +8,12 @@
 
 ## Run in development mode
 ```
-> bundle exec rake
+> bin/rackup
 ```
 
 ## Run in production mode
 ```
-> RACK_ENV=production bundle exec rake
+> RACK_ENV=production bin/rackup
 ```
 
 ## See the results
