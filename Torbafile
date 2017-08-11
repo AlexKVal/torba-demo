@@ -1,0 +1,5 @@
+# vim: set ft=ruby:
+
+gh_release source: "JedWatson/react-select", tag: "v1.0.0-rc.1", import: ["dist/react-select.css"]
+
+npm package: 'jquery', version: '2.2.2', import: %w[dist/jquery.js]

@@ -12,3 +12,5 @@ gem 'babel-transpiler' # es6
 gem 'uglifier'
 
 gem 'sass'
+
+gem 'torba'
